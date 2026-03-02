@@ -35,7 +35,7 @@ body{
 
 .menu ul li a {
     float:left;
-    width:70px
+    width:70px;
     display:block;
     text-align:venter;
     color:#FFF;
@@ -46,4 +46,5 @@ body{
     backgorund-color:#4b88bb;
     display:block;
 }
+
 
